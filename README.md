@@ -7,6 +7,7 @@ Features:
 * USB serial device supporting half-duplex RS-485 interface
 * Supports 1 Mbps operation
 * Fully isolated (1 kV)
+* Overvoltage protection
 * 3.81 mm strip headers bus connector
 * USB 2.0 interface (type B)
 
