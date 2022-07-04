@@ -45,3 +45,14 @@ If soldered, 120Ω termination will be placed between A and B lines.
 ##### JP2,JP3: Biasing
 
 If soldered, a passive 680Ω biasing will be applied.
+
+##### JP4: Readback
+
+If soldered to `ON` position, receiver will not be turned off during
+transmission and thus each byte sent will be also received. If soldered to
+`OFF` position, turning on transmitter will turn off receiver.
+
+
+#### Crystal
+
+Crystal is optional but highly recommended if going over 115200 kbps.
