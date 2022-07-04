@@ -13,9 +13,9 @@
 |  1 | J MC 1,5/ 3-G-3,81 (3w)                   | J2      | ED2809-ND                   | 277-1207-ND                     |
 |  1 | L Ferrite 40Ohm (0805)                    | L1      | 445-2201-1-ND               |                                 |
 |  4 | R 120 0.125W (0805)                       | R1-R4   | RMCF0805FT120RCT-ND         |                                 |
-|  7 | R 150 0.125W (0805)                       | R5-R11  | RMCF0805FT150RCT-ND         |                                 |
-|  2 | R 680 0.125W (0805)                       | R12-R13 | RMCF0805FT680RCT-ND         |                                 |
-|  4 | R 1K 0.125W (0805)                        | R14-R17 | RMCF0805FT1K00CT-ND         |                                 |
+|  6 | R 150 0.125W (0805)                       | R5-R10  | RMCF0805FT150RCT-ND         |                                 |
+|  2 | R 680 0.125W (0805)                       | R11-R12 | RMCF0805FT680RCT-ND         |                                 |
+|  9 | R 1K 0.125W (0805)                        | R13-R21 | RMCF0805FT1K00CT-ND         |                                 |
 |  1 | U PIC16F1454 (SOIC-14)                    | U1      | PIC16F1454-I/SL             | PIC16F1454-E/SL                 |
 |  1 | U ISL8485IBZ (SOIC-8)                     | U2      | ISL8485IBZ-ND               | 296-1275-1-ND                   |
 |  3 | U Optocoupler HL11L1 (SMD-6)              | U3-U5   | H11L1SMCT-ND                | H11L1SR2MCT-ND                  |
