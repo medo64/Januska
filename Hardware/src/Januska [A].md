@@ -16,7 +16,7 @@
 |  2 | R 680 0.125W (0805)                       | R12-R13 | RMCF0805FT680RCT-ND        |                                 |
 |  4 | R 1K 0.125W (0805)                        | R14-R17 | RMCF0805FT1K00CT-ND        |                                 |
 |  1 | U PIC16F1454 (SOIC-14)                    | U1      | PIC16F1454-I/SL            | PIC16F1454-E/SL                 |
-|  1 | U SP485E (SOIC-8)                         | U2      | 1016-1169-5-ND             | 1016-1827-1-ND                  |
+|  1 | U ISL8485IBZ (SOIC-8)                     | U2      | ISL8485IBZ-ND              | 296-1275-1-ND                   |
 |  3 | U Optocoupler HL11L1 (SMD-6)              | U3-U5   | H11L1SMCT-ND               | H11L1SR2MCT-ND                  |
 |  1 | VR DC-DC 5V->5V 1W (SIP-4)                | VR1     | 945-1655-5-ND              |                                 |
 |  1 | Y Crystal 12MHz 50ppm 20pF                | Y1      | 887-2011-ND                | 887-1238-ND                     |
