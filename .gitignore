@@ -1,0 +1,24 @@
+syntax: glob
+
+**/datasheets/**
+**/research/**
+**/dist/**
+
+**/Firmware/bin/**
+**/Firmware/src/*.err
+**/Firmware/src/*.obj
+**/Firmware/src/build/**
+**/Firmware/src/disassembly/**
+**/Firmware/src/dist/**
+**/Firmware/src/funclist
+**/Firmware/src/nbproject/private/**
+**/Firmware/src/nbproject/Makefile-genesis.properties
+**/Firmware/src/nbproject/Makefile-*.mk
+**/Firmware/src/nbproject/Package-*.bash
+
+**/Software/bin/**
+**/Software/src/*.suo
+**/Software/src/**/.vs
+**/Software/src/**/*.csproj.user
+**/Software/src/**/bin/*
+**/Software/src/**/obj/*
