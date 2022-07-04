@@ -10,7 +10,7 @@
 |  2 | DS LED (0805)                             | DS1-DS2 | 475-1415-1-ND               |                                 |
 |  2 | F 50mA 60V (1206)                         | F1-F2   | 507-1793-1-ND               | 283-3132-1-ND                   |
 |  1 | J USB B, horizontal                       | J1      | ED2982-ND                   |                                 |
-|  1 | J MC 1,5/ 4-G-3,81 (4w)                   | J2      | ED2809-ND                   | 277-1207-ND                     |
+|  1 | J MC 1,5/ 3-G-3,81 (3w)                   | J2      | ED2809-ND                   | 277-1207-ND                     |
 |  1 | L Ferrite 40Ohm (0805)                    | L1      | 445-2201-1-ND               |                                 |
 |  4 | R 120 0.125W (0805)                       | R1-R4   | RMCF0805FT120RCT-ND         |                                 |
 |  7 | R 150 0.125W (0805)                       | R5-R11  | RMCF0805FT150RCT-ND         |                                 |
@@ -23,7 +23,7 @@
 |  1 | Y Crystal 12MHz 50ppm 20pF                | Y1      | 887-2011-ND                 | 887-1238-ND                     |
 |  1 | H Enclosure 1593DBK                       |         | HM861-ND                    |                                 |
 |  4 | H PCB Screw Self-tapping M3 6mm (#4 1/4") |         | 36-9191-3-ND                | SR6004-ND                       |
-|  1 | P MC 1,5/ 4-ST-3,81 (3w)                  |         | ED2876-ND                   | 277-1162-ND                     |
+|  1 | P MC 1,5/ 3-ST-3,81 (3w)                  |         | ED2876-ND                   | 277-1162-ND                     |
 
 Please note pretty much any of these components can be replaced with a carefully
 chosen replacement.
