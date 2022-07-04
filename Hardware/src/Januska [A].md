@@ -6,7 +6,7 @@
 |  7 | C 100nF X7R 16V (0805)                    | C3-C9   | 478-5311-1-ND               |                                 |
 |  1 | C 470nF X7R 16V (0805)                    | C10     | 1276-1199-1-ND              |                                 |
 |  3 | C 10uF X5R 16V (0805)                     | C11-C13 | 1276-1096-1-ND              |                                 |
-|  2 | D Zener 6.8V 1W (DO-214AC)                | D2-D2   | 3757-1SMA5921_R1_00001CT-ND | SMAZ6V8-FDICT-ND                |
+|  4 | D Zener 6.8V 1W (DO-214AC)                | D1-D4   | 3757-1SMA5921_R1_00001CT-ND | SMAZ6V8-FDICT-ND                |
 |  2 | DS LED (0805)                             | DS1-DS2 | 475-1415-1-ND               |                                 |
 |  2 | F 50mA 60V (1206)                         | F1-F2   | 507-1793-1-ND               | 283-3132-1-ND                   |
 |  1 | J USB B, horizontal                       | J1      | ED2982-ND                   |                                 |
